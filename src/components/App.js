@@ -8,7 +8,7 @@ class App extends React.Component{
 
 componentDidMount()
 {
-    this.onTermSubmit('React')
+    this.onTermSubmit('God of war ending')
 }
 
 
